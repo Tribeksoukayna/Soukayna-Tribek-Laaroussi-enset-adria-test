@@ -10,4 +10,4 @@ ConfigService:
   ![image](https://github.com/Tribeksoukayna/Soukayna-Tribek-Laaroussi-enset-adria-test/assets/95369543/6b6cc1a1-c29a-4b1c-b6a1-816db927dc8e)
 
       application.properties de config-service: 
-      ![image](https://github.com/Tribeksoukayna/Soukayna-Tribek-Laaroussi-enset-adria-test/assets/95369543/fd3c3e1c-7f38-499d-884a-f64f722f97b8)
+![image](https://github.com/Tribeksoukayna/Soukayna-Tribek-Laaroussi-enset-adria-test/assets/95369543/5e908a3c-be75-47b1-a563-4ebe9509a902)
