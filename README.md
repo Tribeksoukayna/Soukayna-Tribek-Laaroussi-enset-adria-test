@@ -11,3 +11,4 @@ ConfigService:
 
       application.properties de config-service: 
 ![image](https://github.com/Tribeksoukayna/Soukayna-Tribek-Laaroussi-enset-adria-test/assets/95369543/5e908a3c-be75-47b1-a563-4ebe9509a902)
+3. Développer et tester le micro-service wallet-service :
